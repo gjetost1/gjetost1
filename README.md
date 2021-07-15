@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Rosen</h1>
 <h3 align="center">Jazz 🎵 cat turned coding hermit</h3>
 
-- 🔭 I’m currently working on [i-tinerant](https://i-tinerant.herokuapp.com/)
+- 🔭 I’m currently working on [i-tinerant](https://i-tinerant.herokuapp.com/), a schedule planning and itinerary application.
 
 - 🌱 I’m currently learning **MongoDB and Angular**
 
