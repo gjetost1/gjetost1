@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Rosen</h1>
 <h3 align="center">Jazz 🎵 cat turned coding hermit</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gjetost1&label=Profile%20views&color=0e75b6&style=flat" alt="gjetost1" /> </p>
-
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=gjetost1" alt="gjetost1" /></a> </p>
-
 - 🔭 I’m currently working on [i-tinerant](https://i-tinerant.herokuapp.com/)
 
 - 🌱 I’m currently learning **MongoDB and Angular**
