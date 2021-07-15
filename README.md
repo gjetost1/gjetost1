@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **MongoDB and Angular**
 
-- 📫 How to reach me **rosen659@umn.edu**
+- 📫 Reach me at **rosen659@umn.edu** or dig around on my [website](https://www.danielpatrickrosen.com/)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
