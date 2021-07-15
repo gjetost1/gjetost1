@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [i-tinerant](https://i-tinerant.herokuapp.com/), a schedule planning and itinerary application.
 
-- 🌱 I’m currently learning **MongoDB and Angular**
+- 🌱 I’m currently learning **MongoDB and Angular**.
 
-- 📫 Reach me at **rosen659@umn.edu** or dig around on my [website](https://www.danielpatrickrosen.com/)
+- 📫 Reach me at **rosen659@umn.edu** or dig around on my [website](https://www.danielpatrickrosen.com/).
 
 
 
