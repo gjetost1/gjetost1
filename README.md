@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [i-tinerant](https://i-tinerant.herokuapp.com/), a schedule planning and itinerary application.
 
-- 🌱 I’m currently learning **MongoDB and Angular**.
+- 🌱 I’m currently learning **MongoDB and Ruby**.
 
 - 📫 Reach me on <a href="https://linkedin.com/in/daniel-rosen-54962190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-rosen-54962190" height="30" width="40" />  
   
